@@ -1,0 +1,17 @@
+name="Addons Pack for Shield TV v1.0.0"    
+url="https://archive.org/download/receta_patatas_fritas/receta_patatas_fritas.zip"
+img="https://i.imgur.com/RRg5f7i.jpg"
+fanart="https://i.imgur.com/RRg5f7i.jpg"
+description="Latest addonspack"
+
+name="Addons Pack for Shield TV v1.0.0"    
+url="https://archive.org/download/playas_201809/playas.zip"
+img="https://i.imgur.com/RRg5f7i.jpg"
+fanart="https://i.imgur.com/RRg5f7i.jpg"
+description="Latest addonspack"
+
+name="Addons Pack for Linux v1.0.0"    
+url="https://archive.org/download/playas_201809/playas.zip"
+img="https://i.imgur.com/RRg5f7i.jpg"
+fanart="https://i.imgur.com/RRg5f7i.jpg"
+description="Latest addonspack"
