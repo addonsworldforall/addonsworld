@@ -1,6 +1,6 @@
 name="Addonsworld Linux"
-version="1.0.0"
-url="https://archive.org/download/2019Murcia/2019_murcia.zip"
+version="6.5.0"
+url="https://archive.org/download/ososnuevos/ososnuevos.zip"
 gui="http://"
 kodi="18"
 theme="http://"
