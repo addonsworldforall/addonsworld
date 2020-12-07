@@ -1,6 +1,6 @@
 name="Addonsworld Android"
 version="1.0.0"
-url="https://archive.org/download/aw2_20200629/aw2.zip"
+url="https://archive.org/download/catalogo2020/catalogo2020.zip"
 gui="http://"
 kodi="18"
 theme="http://"
