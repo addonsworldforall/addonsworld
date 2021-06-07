@@ -1,0 +1,6 @@
+name="addonsworld-matrix"
+url="https://media.githubusercontent.com/media/mateo-orfila/papertest/main/recetas_paella.zip"
+icon="https://i.imgur.com/MkBPo4g.png"
+fanart="https://i.imgur.com/uJXnRfP.jpg"
+adult="no"
+description="addonsworld-matrix"
